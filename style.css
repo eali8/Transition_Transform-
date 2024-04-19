@@ -15,7 +15,7 @@ p::first-letter {
 
 .container {
     width: 1200px;
-    height: 1000vh;
+    height: 150vh;
     display: flex;
     align-content: flex-start;
     align-items: center;
